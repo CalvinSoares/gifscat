@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+}
+
+main {
+    text-align: center;
+
+}
+
+footer {
+    text-align: center;
+}
+
+button {
+
+
+}
+
+button:hover {
+    background: orange;
+}
